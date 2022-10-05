@@ -31,6 +31,7 @@ class Character implements Fighter {
       amount: RANDOM_NUMBER,
     };
   }
+  // a
   
   get race(): Race {
     return this._race;
